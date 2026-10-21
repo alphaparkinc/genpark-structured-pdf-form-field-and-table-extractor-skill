@@ -1,0 +1,7 @@
+[project]
+name = "genpark-structured-pdf-form-field-and-table-extractor-skill"
+version = "1.0.0"
+description = "Tabular data matrix extractor, key-value form field normalizer, and semi-structured document chunker"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
